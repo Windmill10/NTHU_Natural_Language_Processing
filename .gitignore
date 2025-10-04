@@ -1,0 +1,12 @@
+# macOS system files
+.DS_Store
+
+# Archives
+*.zip
+*.gz
+
+# Large data / model files
+*.npy
+
+# Microsoft Office temporary files
+~$*.docx

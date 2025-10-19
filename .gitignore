@@ -10,3 +10,5 @@
 
 # Microsoft Office temporary files
 ~$*.docx
+
+.idea/
